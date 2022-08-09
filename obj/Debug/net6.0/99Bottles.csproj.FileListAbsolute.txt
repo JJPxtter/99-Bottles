@@ -1,0 +1,15 @@
+C:\Users\jeand\Desktop\c#\99Bottles\bin\Debug\net6.0\99Bottles.exe
+C:\Users\jeand\Desktop\c#\99Bottles\bin\Debug\net6.0\99Bottles.deps.json
+C:\Users\jeand\Desktop\c#\99Bottles\bin\Debug\net6.0\99Bottles.runtimeconfig.json
+C:\Users\jeand\Desktop\c#\99Bottles\bin\Debug\net6.0\99Bottles.dll
+C:\Users\jeand\Desktop\c#\99Bottles\bin\Debug\net6.0\ref\99Bottles.dll
+C:\Users\jeand\Desktop\c#\99Bottles\bin\Debug\net6.0\99Bottles.pdb
+C:\Users\jeand\Desktop\c#\99Bottles\obj\Debug\net6.0\99Bottles.csproj.AssemblyReference.cache
+C:\Users\jeand\Desktop\c#\99Bottles\obj\Debug\net6.0\99Bottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeand\Desktop\c#\99Bottles\obj\Debug\net6.0\99Bottles.AssemblyInfoInputs.cache
+C:\Users\jeand\Desktop\c#\99Bottles\obj\Debug\net6.0\99Bottles.AssemblyInfo.cs
+C:\Users\jeand\Desktop\c#\99Bottles\obj\Debug\net6.0\99Bottles.csproj.CoreCompileInputs.cache
+C:\Users\jeand\Desktop\c#\99Bottles\obj\Debug\net6.0\99Bottles.dll
+C:\Users\jeand\Desktop\c#\99Bottles\obj\Debug\net6.0\ref\99Bottles.dll
+C:\Users\jeand\Desktop\c#\99Bottles\obj\Debug\net6.0\99Bottles.pdb
+C:\Users\jeand\Desktop\c#\99Bottles\obj\Debug\net6.0\99Bottles.genruntimeconfig.cache
